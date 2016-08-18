@@ -8,6 +8,6 @@
 		
 		Another Page Content
 		
-		Another Content
+		Another Content 2
 	</body>
 </html>
