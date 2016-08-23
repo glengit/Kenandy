@@ -9,5 +9,7 @@
 		Another Page Content
 		
 		Another Content 2
+		
+		Custom Content
 	</body>
 </html>
